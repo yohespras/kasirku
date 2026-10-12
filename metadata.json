@@ -1,0 +1,6 @@
+{
+  "name": "KasirPintar - POS & Inventaris Toko",
+  "description": "Aplikasi web kasir modern dengan manajemen stok otomatis, scan barcode, struk thermal, laporan keuangan harian, dan sinkronisasi Google Sheets.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
